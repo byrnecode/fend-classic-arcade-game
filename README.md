@@ -14,7 +14,7 @@ This is one of the projects in the Udacity Frontend Web Developer Nanodegree Pro
 - Higher level means more bugs!
 - You got 3 lives (hearts)
 - Try to collect gems that will appear randomly
-- Collecting a gem will decrease the nubmer of bugs (only if bugs are more than 3)
+- Collecting a gem will decrease the number of bugs (only if bugs are more than 3)
 - Try to beat your previously highest level achieved
 
 ### Extra notes:
