@@ -2,7 +2,7 @@
 This is one of the projects in the Udacity Frontend Web Developer Nanodegree Program. This project is to showcase the student's Object-Oriented JavaScript and HTML5 Canvas skills.
 
 ## Intructions on how to play:
-- Click here to play online
+- [Click here to play online](https://byrnecode.github.io/fend-classic-arcade-game/index.html)
 - Or download all the files and open index.html in your browser
 
 ## Game mechanics:
